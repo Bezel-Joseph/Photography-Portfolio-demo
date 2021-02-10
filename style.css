@@ -459,6 +459,7 @@ textarea::placeholder{
 	
 	color: #fff;
 	padding-top:100px;
+	padding-bottom:100px;
 }
 .icon-box{
 	border: 1px solid #fff;
